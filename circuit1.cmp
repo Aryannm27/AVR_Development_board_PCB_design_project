@@ -1,0 +1,331 @@
+Cmp-Mod V01 Created by PcbNew   date = 09/14/22 13:16:31
+
+BeginCmp
+TimeStamp = 6321F1A4
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321F17D
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321CEC7
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321CE6E
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321F7C0
+Path = /6345D653
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DCB1
+Path = /6321C353
+Reference = C2;
+ValeurCmp = 1000uf/25V;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DD35
+Path = /63224D60
+Reference = C3;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DDB9
+Path = /632EBB1D
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321F9ED
+Path = /632F1C49
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 63218E93
+Path = /6351DECB
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DED6
+Path = /632D6644
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DF5A
+Path = /63317BA0
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DF6F
+Path = /6325B766
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321F8DD
+Path = /6324C63B
+Reference = C10;
+ValeurCmp = 33pF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DF99
+Path = /6324AFD4
+Reference = C11;
+ValeurCmp = 33pF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 632202EE
+Path = /63226355
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321DFC3
+Path = /63226D4F
+Reference = C13;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321FE58
+Path = /63208BE4
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E001
+Path = /632093F8
+Reference = D2;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E020
+Path = /63209DF2
+Reference = D3;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E03F
+Path = /6320A77E
+Reference = D4;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E052
+Path = /63221B66
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E067
+Path = /63203581
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock:TerminalBlock_bornier-2_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E087
+Path = /632826F7
+Reference = J2;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E0A7
+Path = /6327DECB
+Reference = J3;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E0C7
+Path = /6325F5E3
+Reference = J4;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E0FB
+Path = /632ADED7
+Reference = J5;
+ValeurCmp = DB9_Female;
+IdModule  = Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E115
+Path = /6329A5EB
+Reference = J6;
+ValeurCmp = Conn_01x06_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321FC31
+Path = /6330478C
+Reference = JP1;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321FCF1
+Path = /6330540E
+Reference = JP2;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 632205A7
+Path = /6324695F
+Reference = JP3;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 63220A2E
+Path = /632449B8
+Reference = JP4;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E183
+Path = /63234767
+Reference = JP5;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E18D
+Path = /6321EAE7
+Reference = L1;
+ValeurCmp = 100uH;
+IdModule  = Inductor_THT:L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321FDD8
+Path = /63233B3E
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E1BB
+Path = /63221364
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E1DA
+Path = /63235CB7
+Reference = SW1;
+ValeurCmp = REST;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E1FA
+Path = /63223F54
+Reference = U1;
+ValeurCmp = L7805;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E21E
+Path = /632AAA31
+Reference = U2;
+ValeurCmp = MAX232;
+IdModule  = Package_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E24E
+Path = /633B6D2A
+Reference = U3;
+ValeurCmp = ATmega8L-8PU;
+IdModule  = Package_DIP:DIP-28_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6321E265
+Path = /6324288E
+Reference = Y1;
+ValeurCmp = Crystal;
+IdModule  = Crystal:Crystal_HC18-U_Vertical;
+EndCmp
+
+EndListe
